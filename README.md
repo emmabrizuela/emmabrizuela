@@ -39,12 +39,12 @@ Soy QA Automation con experiencia en testing funcional, pruebas manuales, automa
 📅 *Dic 2024 – Actualidad*  
 - Creación y ejecución de pruebas manuales y automatizadas (regresión, seguridad, back-end).
 - Diseño E2E de pruebas y módulos automatizados.
-- Herramientas: JIRA, qTest, BrowserStack, Postman, Selenium, GitLab.
+- Herramientas: JIRA, BrowserStack, Postman, Selenium, GitLab.
 
 ### 🏢 **QActions Group SRL** — QA Automation Engineer  
 📅 *Sep 2022 – Sep 2024*  
 - Diseño de POM, automatización de pruebas E2E.
-- Uso de TRICENTIS Tosca, GitLab, Python + Selenium.
+- Uso de GitLab, Github, Python + Selenium.
 - Proyecto: Swiss Medical Group
 
 ### 🏢 **Practia Global** — QA Automation  
@@ -76,7 +76,7 @@ Validación de formularios usando hooks y renderizado condicional.
 - Diseño de planes y casos de prueba (manual/automático)
 - Testing funcional, regresión, back-end y seguridad
 - Automatización de pruebas web y servicios (REST/SOAP)
-- Uso de herramientas low-code (Tosca, Katalon, SoapUI)
+- Uso de herramientas low-code (Katalon, SoapUI)
 - Integración en pipelines CI/CD (GitLab, GitHub Actions)
 - Comunicación con equipos técnicos y clientes
 
