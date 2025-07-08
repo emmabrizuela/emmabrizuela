@@ -2,7 +2,7 @@
 # 👋 Hola, soy Emmanuel Brizuela Parisi
 
 <p align="center">
-  <img src="banner.png" alt="Banner Emanuel Brizuela" />
+  <img src="banner.png" alt="Banner Emmanuel Brizuela Parisi" />
   <a href="mailto:emmanuel.brizuelaparisi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/emmanuelbrizuelaparisi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/emmabrizuela"><img src="https://img.shields.io/github/followers/emmabrizuela?label=Follow&style=social" /></a>
