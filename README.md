@@ -1,5 +1,5 @@
 
-# 👋 Hola, soy Emanuel Brizuela
+# 👋 Hola, soy Emmanuel Brizuela Parisi
 
 <p align="center">
   <a href="mailto:emmanuel.brizuelaparisi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -104,4 +104,4 @@ Validación de formularios usando hooks y renderizado condicional.
 - 🌐 LinkedIn: [linkedin.com/in/emmanuelbrizuelaparisi](https://linkedin.com/in/emmanuelbrizuelaparisi)  
 - 📄 CV PDF: [Disponible bajo solicitud o en LinkedIn]  
 
-_¡Gracias por visitar mi perfil! ✨_
+_¡Gracias por visitar mi perfil!, Que tengasun excelente dia! ✨_
