@@ -25,10 +25,10 @@ Soy QA Automation con experiencia en testing funcional, pruebas manuales, automa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 </p>
 
-- **Testing**: Selenium, Pytest, Robot Framework, TRICENTIS Tosca, Katalon, SoapUI, qTest, BrowserStack
+- **Testing**: Selenium, Pytest, Robot Framework, Katalon, SoapUI, qTest, BrowserStack
 - **APIs**: Postman, REST/SOAP, Newman
 - **CI/CD**: GitHub Actions, Jenkins, GitLab
-- **Bases de datos**: MongoDB, MySQL, SQLite, PostgreSQL
+- **Bases de datos**: MySQL, SQLite, PostgreSQL
 - **Otros**: Git, JIRA, Visual Studio Code, Linux, Windows
 
 ---
@@ -86,15 +86,12 @@ Validación de formularios usando hooks y renderizado condicional.
 
 - **Tecnicatura Universitaria en Programación** – UTN *(en curso)*
 - **Certificaciones:**
-  - TRICENTIS Tosca – QActions Group
-  - Automation Engineer L1 *(2023)*
   - Cursos: Python QA Automation, Selenium, Postman, Git, React, MERN Stack
 
 ---
 
 ## 🌍 Idiomas
-
-- 🇪🇸 Español: Nativo  
+ 
 - 🇬🇧 Inglés: B1  
 - 🇮🇹 Italiano: B1  
 - 🇧🇷 Portugués: A2
