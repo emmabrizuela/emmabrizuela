@@ -36,6 +36,12 @@ Soy QA Automation con experiencia en testing funcional, pruebas manuales, automa
 
 ## 💼 Experiencia profesional
 
+### 🏢 **ACHILLES GROUP** — QA Manual/Automation Engineer  
+📅 *May 2025 – Actualidad*  
+- Creación y ejecución de pruebas manuales y automatizadas (regresión, seguridad, back-end).
+- Diseño E2E de pruebas y módulos automatizados.
+- Herramientas: JIRA, BrowserStack, Postman, Selenium, GitLab.
+
 ### 🏢 **INFOCONTROL** — QA Manual/Automation Engineer  
 📅 *Dic 2024 – Actualidad*  
 - Creación y ejecución de pruebas manuales y automatizadas (regresión, seguridad, back-end).
